@@ -1,4 +1,4 @@
-## What is Privilege Escalation?
+# What is Privilege Escalation?
 
 Privilege escalation occurs when a user gains access to permissions or roles beyond their intended authorization. This typically involves escalating from a low-privileged user (e.g., "ViewOnly" or guest) to a high-privileged role (e.g., admin or superuser). Such vulnerabilities can result in full account compromise, unauthorized data access, or critical application control.
 
